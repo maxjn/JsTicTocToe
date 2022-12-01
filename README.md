@@ -1,4 +1,4 @@
-### simple Js calculator
+### simple Js tic-toc-toe game
 
 [Live Project Link](https://maxjn-jstictoctoe.pages.dev).
 
